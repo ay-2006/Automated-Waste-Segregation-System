@@ -20,7 +20,7 @@ An automated "at-source" domestic waste sorter engineered to classify refuse int
 ## Circuit Documentation
 The following diagram illustrates the sensor-actuator interfacing and pin configuration used for this prototype.
 
-![Circuit Diagram](Automated_Waste_Segregator_circuit_diagram.png)
+![Circuit Diagram](circuit.png)
 
 ---
 
