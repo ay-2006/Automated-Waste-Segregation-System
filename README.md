@@ -52,7 +52,7 @@ Sustainability Impact
 
 Constructed following the 3Rs Principle (Reduce, Reuse, Recycle), the physical chassis uses repurposed PVC pipes, plywood, and plastic containers to minimize the carbon footprint of the device itself.
 
-
+![Project Poster](Automated Waste Segregation System.png)
 
 
 
